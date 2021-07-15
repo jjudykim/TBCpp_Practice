@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1bc0ee23-67ea-4d79-94a1-557ca9a53b71}</ProjectGuid>
-    <RootNamespace>Chatper712</RootNamespace>
+    <ProjectGuid>{86f9f21c-b9eb-4cfe-9344-2f1e2ac113b7}</ProjectGuid>
+    <RootNamespace>Chapter713</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Chapter7_12</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
